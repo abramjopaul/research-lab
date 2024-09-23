@@ -1,0 +1,5 @@
+Label,Accuracy,Precision,Recall,F1
+TRUE,0.131,0.78,0.13,0.22
+Satire,0.93,0.32,0.93,0.47
+Misleading,0.032,0.25,0.03,0.06
+Imposter,0.44,0.7,0.44,0.54
