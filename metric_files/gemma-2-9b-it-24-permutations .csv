@@ -1,0 +1,625 @@
+SL,Permutation,Accuracy-colab,Metrics-colab,Accuracy,Metrics-workbench
+1,TRUE,0.352,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.50      0.03      0.05       107
+           1       0.41      0.24      0.30       100
+           2       0.37      0.15      0.21        93
+           3       0.93      1.00      0.96       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.35       400
+   macro avg       0.44      0.28      0.31       400
+weighted avg       0.55      0.35      0.38       400",0.252,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.37      0.25      0.30       107
+           1       0.50      0.02      0.04       100
+           2       0.27      0.58      0.37        93
+           3       0.98      1.00      0.99       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.46       400
+   macro avg       0.42      0.37      0.34       400
+weighted avg       0.53      0.46      0.42       400"
+,Satire,0.028,,0.02,
+,Misleading Content,0.151,,0.581,
+,Imposter Content,1,,1,
+2,TRUE,0.009,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.25      0.01      0.02       107
+           1       0.33      0.33      0.33       100
+           2       0.33      0.01      0.02        93
+           3       0.00      0.00      0.00       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.09       400
+   macro avg       0.18      0.07      0.07       400
+weighted avg       0.23      0.09      0.09       400",0.271,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.38      0.27      0.32       107
+           1       0.50      0.02      0.04       100
+           2       0.26      0.56      0.36        93
+           3       0.97      1.00      0.99       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.46       400
+   macro avg       0.42      0.37      0.34       400
+weighted avg       0.53      0.46      0.42       400"
+,Satire,0.33,,0.02,
+,Imposter Content,0,,0.559,
+,Misleading Content,0.011,,1,
+3,TRUE,0.019,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.02      0.02      0.02       107
+           1       0.36      0.16      0.22       100
+           2       0.15      0.02      0.04        93
+           3       0.00      0.00      0.00       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.05       400
+   macro avg       0.11      0.04      0.06       400
+weighted avg       0.13      0.05      0.07       400",0.29,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.38      0.29      0.33       107
+           1       0.02      0.02      0.02       100
+           2       0.25      0.51      0.33        93
+           3       0.00      0.00      0.00       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.20       400
+   macro avg       0.13      0.16      0.14       400
+weighted avg       0.16      0.20      0.17       400"
+,Imposter Content,0,,0,
+,Satire,0.16,,0.02,
+,Misleading Content,0.022,,0.505,
+4,TRUE,0.019,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.02      0.02      0.02       107
+           1       0.41      0.21      0.28       100
+           2       0.30      0.14      0.19        93
+           3       0.00      0.00      0.00       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.09       400
+   macro avg       0.15      0.07      0.10       400
+weighted avg       0.18      0.09      0.12       400",0.355,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.42      0.36      0.39       107
+           1       0.00      0.00      0.00       100
+           2       0.16      0.48      0.24        93
+           3       0.00      0.00      0.00       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.21       400
+   macro avg       0.12      0.17      0.12       400
+weighted avg       0.15      0.21      0.16       400"
+,Imposter Content,0,,0,
+,Misleading Content,0.14,,0.484,
+,Satire,0.21,,0,
+5,TRUE,0.028,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.50      0.03      0.05       107
+           1       0.41      0.24      0.30       100
+           2       0.37      0.15      0.21        93
+           3       0.93      1.00      0.96       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.35       400
+   macro avg       0.44      0.28      0.31       400
+weighted avg       0.55      0.35      0.38       400",0.224,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.35      0.22      0.27       107
+           1       0.00      0.00      0.00       100
+           2       0.26      0.58      0.36        93
+           3       0.97      1.00      0.99       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.45       400
+   macro avg       0.32      0.36      0.32       400
+weighted avg       0.40      0.45      0.40       400"
+,Misleading Content,0.151,,0.581,
+,Imposter Content,1,,1,
+,Satire,0.24,,0,
+6,TRUE,0.019,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.02      0.02      0.02       107
+           1       0.40      0.17      0.24       100
+           2       0.27      0.18      0.22        93
+           3       0.00      0.00      0.00       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.09       400
+   macro avg       0.14      0.07      0.10       400
+weighted avg       0.17      0.09      0.12       400",0.299,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.41      0.30      0.35       107
+           1       0.00      0.00      0.00       100
+           2       0.26      0.57      0.36        93
+           3       0.98      1.00      0.99       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.46       400
+   macro avg       0.33      0.37      0.34       400
+weighted avg       0.42      0.46      0.42       400"
+,Misleading Content,0.183,,0.57,
+,Satire,0.17,,0,
+,Imposter Content,0,,1,
+7,Misleading Content,0.183,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.02      0.02      0.02       107
+           1       0.40      0.17      0.24       100
+           2       0.27      0.18      0.22        93
+           3       0.00      0.00      0.00       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.09       400
+   macro avg       0.14      0.07      0.10       400
+weighted avg       0.17      0.09      0.12       400",0.613,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.37      0.21      0.27       107
+           1       0.00      0.00      0.00       100
+           2       0.26      0.61      0.36        93
+           3       0.00      0.00      0.00       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.20       400
+   macro avg       0.13      0.16      0.13       400
+weighted avg       0.16      0.20      0.16       400"
+,TRUE,0.019,,0.206,
+,Satire,0.17,,0,
+,Imposter Content,0,,0,
+8,Misleading Content,0.237,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.06      0.06      0.06       107
+           1       0.33      0.16      0.22       100
+           2       0.26      0.24      0.25        93
+           3       0.00      0.00      0.00       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.11       400
+   macro avg       0.13      0.09      0.10       400
+weighted avg       0.16      0.11      0.13       400",0.602,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.38      0.22      0.28       107
+           1       0.00      0.00      0.00       100
+           2       0.26      0.60      0.36        93
+           3       0.00      0.00      0.00       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.20       400
+   macro avg       0.13      0.17      0.13       400
+weighted avg       0.16      0.20      0.16       400"
+,TRUE,0.056,,0.224,
+,Imposter Content,0,,0,
+,Satire,0.16,,0,
+9,Misleading Content,0.333,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.05      0.06      0.05       107
+           1       0.43      0.10      0.16       100
+           2       0.26      0.33      0.29        93
+           3       0.00      0.00      0.00       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.12       400
+   macro avg       0.15      0.10      0.10       400
+weighted avg       0.18      0.12      0.12       400",0.57,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.39      0.22      0.28       107
+           1       0.83      0.05      0.09       100
+           2       0.25      0.57      0.35        93
+           3       0.00      0.00      0.00       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.20       400
+   macro avg       0.29      0.17      0.15       400
+weighted avg       0.37      0.20      0.18       400"
+,Imposter Content,0,,0,
+,TRUE,0.056,,0.224,
+,Satire,0.1,,0.05,
+10,Misleading Content,0.258,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.01      0.01      0.01       107
+           1       0.26      0.11      0.15       100
+           2       0.30      0.26      0.28        93
+           3       0.00      0.00      0.00       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.09       400
+   macro avg       0.11      0.08      0.09       400
+weighted avg       0.14      0.09      0.11       400",0.602,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.35      0.13      0.19       107
+           1       0.28      0.05      0.08       100
+           2       0.26      0.60      0.36        93
+           3       0.00      0.00      0.00       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.19       400
+   macro avg       0.18      0.16      0.13       400
+weighted avg       0.22      0.19      0.16       400"
+,Imposter Content,0,,0,
+,Satire,0.11,,0.05,
+,TRUE,0.009,,0.131,
+11,Misleading Content,0.312,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.02      0.02      0.02       107
+           1       0.33      0.11      0.17       100
+           2       0.30      0.31      0.31        93
+           3       0.00      0.00      0.00       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.10       400
+   macro avg       0.13      0.09      0.10       400
+weighted avg       0.16      0.10      0.12       400",0.559,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.42      0.32      0.36       107
+           1       1.00      0.01      0.02       100
+           2       0.26      0.56      0.36        93
+           3       0.00      0.00      0.00       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.22       400
+   macro avg       0.34      0.18      0.15       400
+weighted avg       0.43      0.22      0.19       400"
+,Satire,0.11,,0.01,
+,Imposter Content,0,,0,
+,TRUE,0.019,,0.318,
+12,Misleading Content,0.269,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.02      0.02      0.02       107
+           1       0.32      0.08      0.13       100
+           2       0.26      0.27      0.27        93
+           3       0.00      0.00      0.00       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.09       400
+   macro avg       0.12      0.07      0.08       400
+weighted avg       0.15      0.09      0.10       400",0.581,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.44      0.30      0.36       107
+           1       0.00      0.00      0.00       100
+           2       0.26      0.58      0.36        93
+           3       0.00      0.00      0.00       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.21       400
+   macro avg       0.14      0.18      0.14       400
+weighted avg       0.18      0.21      0.18       400"
+,Satire,0.08,,0,
+,TRUE,0.019,,0.299,
+,Imposter Content,0,,0,
+13,Satire,0.24,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.01      0.01      0.01       107
+           1       0.32      0.24      0.27       100
+           2       0.38      0.10      0.15        93
+           3       0.00      0.00      0.00       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.09       400
+   macro avg       0.14      0.07      0.09       400
+weighted avg       0.17      0.09      0.11       400",0.49,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.35      0.13      0.19       107
+           1       0.60      0.49      0.54       100
+           2       0.30      0.45      0.36        93
+           3       0.00      0.00      0.00       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.26       400
+   macro avg       0.25      0.21      0.22       400
+weighted avg       0.31      0.26      0.27       400"
+,Misleading Content,0.097,,0.452,
+,TRUE,0.009,,0.131,
+,Imposter Content,0,,0,
+14,Satire,0.24,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.01      0.01      0.01       107
+           1       0.30      0.24      0.27       100
+           2       0.31      0.11      0.16        93
+           3       0.00      0.00      0.00       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.09       400
+   macro avg       0.13      0.07      0.09       400
+weighted avg       0.15      0.09      0.11       400",0.33,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.31      0.10      0.15       107
+           1       0.80      0.33      0.47       100
+           2       0.29      0.56      0.38        93
+           3       0.00      0.00      0.00       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.24       400
+   macro avg       0.28      0.20      0.20       400
+weighted avg       0.35      0.24      0.25       400"
+,Misleading Content,0.108,,0.559,
+,Imposter Content,0,,0,
+,TRUE,0.009,,0.103,
+15,Satire,0.21,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.04      0.04      0.04       107
+           1       0.39      0.21      0.27       100
+           2       0.37      0.16      0.22        93
+           3       0.00      0.00      0.00       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.10       400
+   macro avg       0.16      0.08      0.11       400
+weighted avg       0.19      0.10      0.13       400",0.46,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.29      0.11      0.16       107
+           1       0.58      0.46      0.51       100
+           2       0.28      0.41      0.33        93
+           3       0.00      0.00      0.00       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.24       400
+   macro avg       0.23      0.20      0.20       400
+weighted avg       0.29      0.24      0.25       400"
+,Imposter Content,0,,0,
+,Misleading Content,0.161,,0.409,
+,TRUE,0.037,,0.112,
+16,Satire,0.15,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.01      0.01      0.01       107
+           1       0.38      0.15      0.21       100
+           2       0.45      0.10      0.16        93
+           3       0.00      0.00      0.00       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.06       400
+   macro avg       0.17      0.05      0.08       400
+weighted avg       0.20      0.06      0.09       400",0.29,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.30      0.10      0.15       107
+           1       0.55      0.29      0.38       100
+           2       0.27      0.51      0.35        93
+           3       0.00      0.00      0.00       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.22       400
+   macro avg       0.22      0.18      0.18       400
+weighted avg       0.28      0.22      0.22       400"
+,Imposter Content,0,,0,
+,TRUE,0.009,,0.103,
+,Misleading Content,0.097,,0.505,
+17,Satire,0.16,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.02      0.02      0.02       107
+           1       0.32      0.16      0.21       100
+           2       0.29      0.04      0.07        93
+           3       0.00      0.00      0.00       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.06       400
+   macro avg       0.12      0.04      0.06       400
+weighted avg       0.15      0.06      0.08       400",0.43,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.34      0.21      0.26       107
+           1       0.54      0.43      0.48       100
+           2       0.26      0.34      0.30        93
+           3       0.00      0.00      0.00       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.24       400
+   macro avg       0.23      0.20      0.21       400
+weighted avg       0.29      0.24      0.26       400"
+,TRUE,0.019,,0.215,
+,Imposter Content,0,,0,
+,Misleading Content,0.043,,0.344,
+18,Satire,0.24,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.01      0.01      0.01       107
+           1       0.28      0.24      0.26       100
+           2       0.00      0.00      0.00        93
+           3       0.00      0.00      0.00       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.06       400
+   macro avg       0.06      0.05      0.05       400
+weighted avg       0.07      0.06      0.07       400",0.41,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.39      0.21      0.27       107
+           1       0.58      0.41      0.48       100
+           2       0.27      0.40      0.32        93
+           3       0.00      0.00      0.00       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.25       400
+   macro avg       0.25      0.20      0.21       400
+weighted avg       0.31      0.25      0.27       400"
+,TRUE,0.009,,0.206,
+,Misleading Content,0,,0.398,
+,Imposter Content,0,,0,
+19,Imposter Content,0,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.04      0.04      0.04       107
+           1       0.38      0.24      0.29       100
+           2       0.50      0.06      0.11        93
+           3       0.00      0.00      0.00       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.09       400
+   macro avg       0.18      0.07      0.09       400
+weighted avg       0.22      0.09      0.11       400",0,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.33      0.21      0.25       107
+           1       0.00      0.00      0.00       100
+           2       0.25      0.54      0.34        93
+           3       0.00      0.00      0.00       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.18       400
+   macro avg       0.12      0.15      0.12       400
+weighted avg       0.15      0.18      0.15       400"
+,Satire,0.24,,0,
+,TRUE,0.037,,0.206,
+,Misleading Content,0.065,,0.538,
+20,Imposter Content,0,"classification Report:
+              precision    recall  f1-score   support
+
+           0       0.40      0.02      0.04       107
+           1       0.34      0.41      0.37       100
+           2       0.31      0.09      0.13        93
+           3       0.00      0.00      0.00       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.13       400
+   macro avg       0.21      0.10      0.11       400
+weighted avg       0.26      0.13      0.13       400",0,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.34      0.17      0.23       107
+           1       0.00      0.00      0.00       100
+           2       0.24      0.54      0.33        93
+           3       0.00      0.00      0.00       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.17       400
+   macro avg       0.12      0.14      0.11       400
+weighted avg       0.15      0.17      0.14       400"
+,Satire,0.41,,0,
+,Misleading Content,0.086,,0.538,
+,TRUE,0.019,,0.168,
+21,Imposter Content,1,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.67      0.02      0.04       107
+           1       0.36      0.25      0.29       100
+           2       0.22      0.13      0.16        93
+           3       0.97      1.00      0.99       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.35       400
+   macro avg       0.44      0.28      0.30       400
+weighted avg       0.56      0.35      0.37       400",0,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.33      0.21      0.26       107
+           1       0.00      0.00      0.00       100
+           2       0.24      0.53      0.33        93
+           3       0.00      0.00      0.00       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.18       400
+   macro avg       0.11      0.15      0.12       400
+weighted avg       0.15      0.18      0.15       400"
+,Misleading Content,0.129,,0.527,
+,Satire,0.25,,0,
+,TRUE,0.019,,0.215,
+22,Imposter Content,0,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.06      0.07      0.06       107
+           1       0.48      0.12      0.19       100
+           2       0.20      0.14      0.17        93
+           3       0.00      0.00      0.00       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.08       400
+   macro avg       0.15      0.07      0.08       400
+weighted avg       0.18      0.08      0.10       400",0,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.39      0.21      0.27       107
+           1       0.83      0.05      0.09       100
+           2       0.25      0.55      0.34        93
+           3       0.00      0.00      0.00       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.20       400
+   macro avg       0.29      0.16      0.14       400
+weighted avg       0.37      0.20      0.17       400"
+,Misleading Content,0.14,,0.548,
+,TRUE,0.065,,0.206,
+,Satire,0.12,,0.05,
+23,Imposter Content,0,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.02      0.02      0.02       107
+           1       0.37      0.19      0.25       100
+           2       0.38      0.12      0.18        93
+           3       0.00      0.00      0.00       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.08       400
+   macro avg       0.15      0.07      0.09       400
+weighted avg       0.19      0.08      0.11       400",0,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.37      0.24      0.29       107
+           1       0.00      0.00      0.00       100
+           2       0.27      0.52      0.35        93
+           3       0.00      0.00      0.00       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.18       400
+   macro avg       0.13      0.15      0.13       400
+weighted avg       0.16      0.18      0.16       400"
+,TRUE,0.019,,0.243,
+,Misleading Content,0.118,,0.516,
+,Satire,0,,0,
+24,Imposter Content,0,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.34      0.18      0.23       107
+           1       0.71      0.05      0.09       100
+           2       0.26      0.53      0.35        93
+           3       0.00      0.00      0.00       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.18       400
+   macro avg       0.26      0.15      0.13       400
+weighted avg       0.33      0.18      0.17       400",0,"Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.34      0.18      0.23       107
+           1       0.71      0.05      0.09       100
+           2       0.26      0.53      0.35        93
+           3       0.00      0.00      0.00       100
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.18       400
+   macro avg       0.26      0.15      0.13       400
+weighted avg       0.33      0.18      0.17       400"
+,TRUE,0.178,,0.178,
+,Satire,0.05,,0.05,
+,Misleading Content,0.527,,0.527,
