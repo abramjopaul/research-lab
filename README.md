@@ -1,2 +1,2 @@
 # research-lab
-Identification of Disinformation types in LLMs
+Identification of Disinformation types using LLMs
